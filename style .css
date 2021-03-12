@@ -1,0 +1,10 @@
+h1,
+h3 
+p {
+       display: inline;
+}
+
+label,
+input{
+    display: block;
+}
